@@ -1,0 +1,25 @@
+.intro {
+  font: Arial;
+  font-style: italic;
+  font-size: 50%
+}
+
+.emphasis {
+  margin-left: 200px;
+  font-weight: bold;
+  line-height: 20px;
+}
+
+.joke{
+  color: red;
+
+}
+.best{
+  font-size: 30px;
+  color: #38920f;
+}
+
+.flashy{
+  color: red;
+  font-style: italic;
+}
